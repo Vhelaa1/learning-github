@@ -11,8 +11,9 @@ just a sample repo for learning git hub
 
 [click here](https://intranet.alxswe.com/user_containers/current)
 
-this paragraph has some 'variable' in line code
-
 - [x] HALAAA
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] done
+
+![alt text](http://picsum.photos/200/200)
