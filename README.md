@@ -26,4 +26,4 @@ some paragraph below the photo
 | content | more content | text |
 | more | more | more |
 
-this has been created on a ** sunday **
+this has been created on a **sunday**
