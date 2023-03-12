@@ -17,3 +17,13 @@ just a sample repo for learning git hub
 - [x] done
 
 ![alt text](http://picsum.photos/200/200)
+
+some paragraph below the photo
+> block quote text below the paragraph
+
+| headin | header | head |
+| --- | --- | --- |
+| content | more content | text |
+| more | more | more |
+
+this has been created on a ** sunday **
