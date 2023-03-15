@@ -37,3 +37,8 @@ lets try `this`
   - hala
   - zwina
   - ghzala
+  
+  npm install -g browser-sync
+  
+  # Command line alias to start the browser-sync server
+alias serve="browser-sync start --server --files ."
