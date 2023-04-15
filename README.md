@@ -1,4 +1,3 @@
-![halaana2](https://user-images.githubusercontent.com/125876594/225352272-ad248d2e-ee2c-45b7-9dc9-c59af410f8bb.png)
 # My first website
 ## *welcome to vhela's website*
 here you will have a fun time!
